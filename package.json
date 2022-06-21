@@ -1,0 +1,9 @@
+{
+  "name": "hyphal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "unique-names-generator": "^4.7.1"
+  }
+}
